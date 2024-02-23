@@ -1,4 +1,4 @@
-Privacy Policy - No User Data Collection
+# Privacy Policy - No User Data Collection
 This Privacy Policy explains how the Gemini Side Panel extension for Google Chrome (ID: haapcgopkcpkekndibmagiobpbikmfbl) handles user data.
 We understand the importance of privacy and are committed to protecting your personal information. 
 However, it is important to note that we do not collect any personal information from users of this platform/service.
